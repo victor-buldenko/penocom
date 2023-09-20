@@ -1,9 +1,8 @@
 {
-  "name": "penocom-1",
+  "name": "penocom-clone",
   "source": "src/index.html",
   "version": "1.0.0",
   "description": "landing",
-  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel --open",
